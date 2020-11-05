@@ -3,7 +3,7 @@ Exchange of molecular and cellular information: a hybrid model that integrates s
 
 The following three files were used to identify sensitive parameters within the hybrid model:
 - gif1_sensitivity_analysis.m
-- gif1_dy_SA.m (with the ODEs used in the hybrid model)
+- gif1_dy.m (with the ODEs used in the hybrid model)
 - run_SA.m (to run the sensitivity analysis, returning S_results and ST_results)
 The ST_results were used to calculate the global sensitivity index.
 
